@@ -1,0 +1,2 @@
+# Newtry
+Learning C#
